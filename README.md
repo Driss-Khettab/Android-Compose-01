@@ -101,3 +101,7 @@ Le fichier `MainActivity.kt` contient **trois** `@Preview` :
 ## Dépôt Git
 
 Dépôt public : **https://github.com/Driss-Khettab/Android-Compose-01**
+
+## Auteur
+
+Driss Khettab — ESGI
